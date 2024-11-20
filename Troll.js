@@ -7,10 +7,3 @@ helpBlock.addEventListener('mouseenter', () => {
 });
 
 
-/*helpBlock.addEventListener('click', ()=>{
-    helpBlock.classList.add('hovered');
-
-    setTimeout(() => {
-        helpBlock.classList.remove('hovered');
-    }, 500);
-});*/
